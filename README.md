@@ -14,5 +14,9 @@ Arzaba Diaz April 1173 3W
 # html-1.5
 ![image](https://github.com/user-attachments/assets/1cc61bc0-d677-4a0d-bf58-a95ab99ffb9a)
 ![image](https://github.com/user-attachments/assets/e87c9bdb-67e9-47fd-b256-6072536c8c05)
+# html-1.6
+![image](https://github.com/user-attachments/assets/e705a4a8-9042-47fb-9ae0-fe4aba0b273a)
+![image](https://github.com/user-attachments/assets/9e97d05c-16c4-4a94-9dbb-2479f94bfeb1)
+
 
 
