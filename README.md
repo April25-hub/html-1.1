@@ -8,4 +8,8 @@ Arzaba Diaz April 1173 3W
 # html-1.3
 ![image](https://github.com/user-attachments/assets/b5f47502-ee29-442d-b400-2ecc8744d85a)
 ![image](https://github.com/user-attachments/assets/4960773b-54ed-4bb8-bfe7-d2cdcf141367)
+# html-1.4
+![image](https://github.com/user-attachments/assets/917d40b4-6dd4-45c0-98de-ffe9b43086c5)
+![image](https://github.com/user-attachments/assets/bb2337f9-b325-4e80-b0d4-46a4daf6632a)
+
 
